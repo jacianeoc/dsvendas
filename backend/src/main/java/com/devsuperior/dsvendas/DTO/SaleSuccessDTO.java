@@ -11,7 +11,7 @@ public class SaleSuccessDTO implements Serializable {
     private Long visited;
     private Long deals; // o long é usado para evitar incompatibilidade nos bancos de dados
 
-
+ 
     public SaleSuccessDTO() {
 
     }

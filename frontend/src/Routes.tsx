@@ -6,7 +6,8 @@ export default function Routes() {
   return(
     <BrowserRouter>
       <Switch>
-        //o route define o caminho da rota da aplicação
+        {//o route define o caminho da rota da aplicação
+        }
         <Route path="/" exact>
           <Home></Home>
         </Route>
